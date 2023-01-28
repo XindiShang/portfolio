@@ -521,27 +521,27 @@ img {
   background-color: var(--first-color);
 }
 
-.skills__html {
+.skills__vue {
+  width: 95%;
+}
+.skills__react {
   width: 90%;
 }
-.skills__css {
-  width: 80%;
-}
-.skills__js {
+.skills__t3 {
   width: 85%;
 }
-.skills__vue {
+.skills__three {
   width: 85%;
 }
 
 .skills__py {
-  width: 85%;
+  width: 90%;
 }
 .skills__node {
-  width: 85%;
+  width: 90%;
 }
 .skills__firebase {
-  width: 80%;
+  width: 90%;
 }
 
 .skills__figma {
